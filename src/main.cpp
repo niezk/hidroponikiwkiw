@@ -1,6 +1,6 @@
 // Blynk Template - Hardcoded
-#define BLYNK_TEMPLATE_ID "TMPL6KuOhWVBP"
-#define BLYNK_TEMPLATE_NAME "HIDROPONIK V1"
+#define BLYNK_TEMPLATE_ID "PUT_YOUR+TEMPLATE_ID_HERE"
+#define BLYNK_TEMPLATE_NAME "TEMPLATE_NAME"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -882,3 +882,4 @@ BLYNK_CONNECTED()
 
   Serial.println("Blynk connected and synced!");
 }
+
